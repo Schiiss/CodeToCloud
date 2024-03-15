@@ -1,0 +1,7 @@
+langchain==0.1.10
+chromadb
+pypdf
+openai==1.13.3
+langchain-openai==0.0.8
+azure-search-documents
+azure-identity
